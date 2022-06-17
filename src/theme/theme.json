@@ -1,0 +1,45 @@
+{
+  "palette": {
+    "type": "light",
+    "primary": {
+      "main": "#d8ad3d",
+      "contrastText": "rgba(255,255,255,0.87)"
+    },
+    "secondary": {
+      "main": "#009cd9"
+    },
+    "divider": "rgba(255,255,255,0.09)",
+    "info": {
+      "main": "#2196f3"
+    },
+    "text": {
+      "primary": "#24272A",
+      "secondary": "#3F454A",
+      "disabled": "#CFCFCF"
+    },
+    "error": {
+      "main": "#b72c2c"
+    }
+  },
+  "typography": {
+    "fontFamily": "Caveat",
+    "h3": {
+      "fontFamily": "Caveat"
+    },
+    "body1": {
+      "fontFamily": "Open Sans"
+    },
+    "button": {
+      "fontFamily": "Open Sans"
+    },
+    "subtitle1": {
+      "fontFamily": "Open Sans"
+    },
+    "subtitle2": {
+      "fontFamily": "Open Sans"
+    },
+    "body2": {
+      "fontFamily": "Open Sans"
+    }
+  }
+}
